@@ -1,0 +1,61 @@
+Title: Design Frugally
+
+----
+
+Text: [{"id": "design-frugally", "type": "text", "isHidden": false, "content": {"text": "#### Chapter 5\n# Design Frugally\n\n<div class=\"bigquote\" style=\"text-align:left;\"> \n  <p>This section explores how to create digital products that drive impact while minimizing their ecological footprint. It champions the cause of designing digital solutions that are not only effective but also environmentally responsible, challenging the norm of heavy digital consumption with strategies for longevity and sustainability.</p>\n</div>\n\n<div class=\"bigquote\">\n  <span class=\"highlight\">\"Frugality is not about being cheap, it's about being resourceful and innovative.\"</span>\n</div>\n\n<p style=\"text-align:center;\">Jugaad Innovation, Navi Radjou</p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 500
+
+----
+
+Number: 
+
+----
+
+Icon: 
+
+----
+
+Section: Design Frugally
+
+----
+
+Previous page: align-business-models-with-sustainability-goals
+
+----
+
+Next page: build-straight-paths-to-user-value
+
+----
+
+Chapter tag: design-frugally
+
+----
+
+Layout: best-practice

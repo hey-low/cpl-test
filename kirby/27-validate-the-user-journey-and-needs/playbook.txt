@@ -1,0 +1,61 @@
+Title: Validate the user journey and needs
+
+----
+
+Text: [{"id": "validate-the-user-journey-and-needs", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 520
+
+----
+
+Number: 20
+
+----
+
+Icon: /assets/climate-icons/Icon-Validate-User-Journey.svg
+
+----
+
+Section: Discover Mindfully
+
+----
+
+Previous page: anticipate-consequences
+
+----
+
+Next page: remove-non-essential-features-from-the-scope
+
+----
+
+Chapter tag: discover-mindfully
+
+----
+
+Layout: best-practice

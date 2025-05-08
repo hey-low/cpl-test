@@ -1,0 +1,61 @@
+Title: Measure environmental Impact of your AI Implementations
+
+----
+
+Text: [{"id": "measure-environmental-impact-of-ai", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"Tokens per watt per dollar\"—the sweet spot where energy, compute power, and intelligence meet—will be a game-changing formula for driving GDP growth.\"</span>\n</div>\n\n<p style=\"text-align:center;\">—Satya Nadella, <a href=\"https://www.linkedin.com/in/satyanadella?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAEkwwAB9KEc2TrQgOLEQ-vzRyZeCDyc6DQ\">Chairman and CEO at Microsoft</a></p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 110
+
+----
+
+Number: 08
+
+----
+
+Icon: /assets/climate-icons/Icon-Brain.svg
+
+----
+
+Section: Build Sustainable AI Products
+
+----
+
+Previous page: build-sustainable-ai-products
+
+----
+
+Next page: use-data-efficiently
+
+----
+
+Chapter tag: sustainable-ai
+
+----
+
+Layout: best-practice

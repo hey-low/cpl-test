@@ -1,0 +1,61 @@
+---
+layout: base
+---
+<!-- <a href="/website/playbook/" style="display:block;text-align: center;">PLAYBOOK CONTENTS</a> -->
+
+{%- include playbook-nav.html -%}
+
+{% if page.matter %}
+<article class="best-practice">
+
+  <div id="{{ page.number }}" class="playbook-topRow">
+    <div class="playbook-column1">
+      <h5 class="playbook-section">{{ page.section }}</h5>
+      <h3>{{ page.number }}</h3>
+    </div>
+    <div class="playbook-column2 playbook-iconAndTitle">
+      <img src="{{ page.icon | prepend: site.baseurl }}" alt="{{ page.title }}" />
+      <h3>{{ page.title | escape }}
+    </div>
+  </div>
+
+  <hr class="playbook-hr" />
+  <div class="playbook-row">
+    <div class="playbook-column1">
+      <h3>Why does it matter?</h3>
+    </div>
+    <div class="playbook-column2">
+      <div>{{ page.matter | markdownify }}</div>
+    </div>
+  </div>
+  <div class="playbook-row">
+    <div class="playbook-column1">
+      <h3>What can I do?</h3>
+    </div>
+    <div class="playbook-column2">
+      <div class="checkmark-list">{{ page.do | markdownify }}</div>
+    </div>
+  </div>
+  <div class="playbook-row">
+    <div class="playbook-column1">
+      <h3>What does success look like?</h3>
+    </div>
+    <div class="playbook-column2">
+      <div>{{ page.success | markdownify }}</div>
+    </div>
+  </div>
+  <div class="playbook-row">
+    <div class="playbook-column1">
+      <h3>Things to consider</h3>
+    </div>
+    <div class="playbook-column2">
+      <div>{{ page.consider | markdownify }}</div>
+    </div>
+  </div>
+
+</article>
+{% endif %}
+
+{{ content }}
+
+{%- include playbook-nav.html -%}

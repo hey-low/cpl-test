@@ -1,0 +1,61 @@
+Title: Minimize data transfer
+
+----
+
+Text: [{"id": "minimize-data-transfer", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"Surprisingly, 20% of API endpoints remain unused for over 30 days.\"</span>\n</div>\n\n<p style=\"text-align:center;\"><a href=\"https://blog.treblle.com/the-anatomy-of-an-api-in-2023-a-comprehensive-overview/\">The Anatomy of an API in 2023: A Comprehensive Overview</a></p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 550
+
+----
+
+Number: 30
+
+----
+
+Icon: /assets/climate-icons/Icon-Transfert.svg
+
+----
+
+Section: Design Frugally
+
+----
+
+Previous page: optimize-multimedia-files
+
+----
+
+Next page: kill-unused-features
+
+----
+
+Chapter tag: design-frugally
+
+----
+
+Layout: best-practice

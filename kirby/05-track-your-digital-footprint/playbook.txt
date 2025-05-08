@@ -1,0 +1,61 @@
+Title: Track your digital footprint
+
+----
+
+Text: [{"id": "track-your-digital-footprint", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n<p><span class=\"highlight\">\"Sustainability should be a default practice in product management, not an afterthought. It's about creating products that not only succeed in the market but also respect and preserve our world.”</span></p>\n\n<p><i>—Yvon Chouinard, Founder of Patagonia</i></p>\n</div>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 40
+
+----
+
+Number: 03
+
+----
+
+Icon: /assets/climate-icons/Icon-Graph.svg
+
+----
+
+Section: Embed Sustainability Into Your Rituals
+
+----
+
+Previous page: choose-the-right-metrics
+
+----
+
+Next page: set-environmental-okrs
+
+----
+
+Chapter tag: embed-rituals
+
+----
+
+Layout: best-practice

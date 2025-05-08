@@ -1,0 +1,61 @@
+Title: Kill unused features
+
+----
+
+Text: [{"id": "kill-unused-features", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 560
+
+----
+
+Number: 31
+
+----
+
+Icon: /assets/climate-icons/Icon-Poubelle.svg
+
+----
+
+Section: Design Frugally
+
+----
+
+Previous page: minimize-data-transfer
+
+----
+
+Next page: delete-old-user-accounts-and-old-data
+
+----
+
+Chapter tag: design-frugally
+
+----
+
+Layout: best-practice

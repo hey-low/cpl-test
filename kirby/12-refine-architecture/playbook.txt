@@ -1,0 +1,61 @@
+Title: Optimize AI Model Training and Inference
+
+----
+
+Text: [{"id": "refine-architecture", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"We should really be asking enough questions so we can make informed decisions without just believing that it’s the best and greatest.\"</span>\n</div>\n\n<p style=\"text-align:center;\">Dr Sasha Luccioni AI researcher, Founding member of Climate Change, and Climate lead at Hugging Face</p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 150
+
+----
+
+Number: 12
+
+----
+
+Icon: /assets/climate-icons/Icon-Briefcase.svg
+
+----
+
+Section: Build Sustainable AI Products
+
+----
+
+Previous page: optimze-model-training
+
+----
+
+Next page: case-study-salesforce-llm
+
+----
+
+Chapter tag: sustainable-ai
+
+----
+
+Layout: best-practice

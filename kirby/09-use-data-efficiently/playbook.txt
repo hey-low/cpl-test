@@ -1,0 +1,61 @@
+Title: Use Data Efficiently
+
+----
+
+Text: [{"id": "use-data-efficiently", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"Clean, Lean Data Is the Cornerstone of AI Sustainability\"</span>\n</div>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 120
+
+----
+
+Number: 09
+
+----
+
+Icon: /assets/climate-icons/Icon-Chart.svg
+
+----
+
+Section: Build Sustainable AI Products
+
+----
+
+Previous page: measure-environmental-impact-of-ai
+
+----
+
+Next page: prioritize-sustainable-ai-design
+
+----
+
+Chapter tag: sustainable-ai
+
+----
+
+Layout: best-practice

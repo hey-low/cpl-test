@@ -1,0 +1,86 @@
+---
+layout: best-practice
+title: "Set environmental OKRs"
+order: 4
+icon: /assets/climate-icons/Icon-Building.svg
+number: "04"
+section: Embed In Your Rituals
+chapter-tag: embed-rituals
+
+matter: |
+  Decarbonization efforts and net-zero targets are becoming
+  the new norms and key for your brand reputation and trust.
+  Whether or not you use OKRs or an alternative approach to
+  quantifying your successes, setting environmentally-focused
+  objectives alongside your business goals, that the whole team can
+  get on board with, is the difference between an ambition, and a
+  successful emissions reduction strategy.
+
+do: |
+  - Identify an expert in digital sustainability with clear support
+  from leadership and with allocated resources (employees and
+  budget)
+
+  - Have a look at the Science Based Targets Initiative (SBTi) and
+  its recommendation for 50% emissions reduction by 2030 (on
+  all three scopes) with a 90% long-term target for 2040 or 2050.
+
+  - Focus on cutting emissions by 90% first, then remove or offset
+  the remaining 10% (according to the SBTi Net Zero Standard)
+
+  - Choose the right metrics
+
+  - Define some inspiring climate-specific and outcome-oriented
+  objectives (e.g. reduce digital carbon footprint by 5% by the end
+  of the quarter)
+
+  - Embed climate-related Key Results in non-climate Objectives
+  (e.g. reduce cloud bill as part of a profit maximization objective)
+
+  - Include an environmental input into your prioritization
+  framework, on top of the business and user values
+
+  - Track your digital footprint, set up dashboards and
+  monitor after each release or sprint
+
+  - Report on environmental progress and % of completion on a
+  weekly, monthly, quarterly, and yearly basis. It should not be any
+  different than other Key Results.
+
+success: |
+  - A clearly articulated vision and mission
+  underscoring commitment to societal and global
+  challenges
+
+  - Cross-departmental participation in green
+  initiatives
+
+  - Adoption of cleaner electricity sources for
+  operations
+
+  - Established targets for reduced carbon and
+  greenhouse gas emissions
+  
+  - Employee retention reflecting a positive and
+  sustainable work environment
+
+consider: |
+  A lot of groundwork needs to happen before succeeding in
+  prioritizing climate or environmental OKRs. Organize talks,
+  raise awareness, and promote training, Set up a climate
+  working group, and Convince and collaborate with
+  internal stakeholders will be needed to maximize your
+  chances.
+
+  In the meantime, you can also apply best practices from the next
+  2 chapters: avoiding building useless stuff, considering hardware
+  impacts, striping and simplifying your experience, decluttering
+  your product, etc. 
+  
+  There are climate-positive product management decisions and
+  best practices that won’t require your whole organization or
+  executive team to approve (such as setting a page weight limit 
+  in your Definition of Done). Lead by example, showcase your
+  success, and you will organically create a buzz around this 
+  work stream.
+---

@@ -1,0 +1,72 @@
+---
+layout: best-practice
+title: "Use multimedia wisely"
+order: 18
+icon: /assets/climate-icons/Icon-Building.svg
+number: "18"
+section: Design Frugally
+chapter-tag: design-frugally
+
+matter: |
+  Understanding the source of your business emissions is
+  important to prioritize the most effective pathway to reduce
+  emissions. It will also help you to realize the contribution of digital
+  technologies to the overall carbon footprint of your operations.
+
+  Since most emissions originate from your supply chain (scope 3),
+  measuring them can be challenging as you depend on suppliers
+  to provide this information and data points.
+
+  Nonetheless, as you cannot improve what you cannot measure,
+  your journey towards sustainability must commence here in order
+  to create a more impactful, deliberate, and effective action plan.
+
+do: |
+  - Connect with the right people: It could be your ESG team,
+  sustainable leaders internally, or external providers with,
+  ideally, some experience in digital emissions measurement
+  
+  - Quantify your company’s value chain (scope 1, 2 and 3) carbon
+  emissions and perform a cradle-to-grave lifecycle analysis on
+  your product
+
+  - Include impacts from devices, networks, and data centers
+  across their life cycle (manufacturing, distribution, usage,
+  to end of life)
+
+  - Choose the right metrics and make sure you can measure
+  them fairly quickly to begin assessing improvements
+  Identify measurement frequency and who’s leading the effort
+
+  - Pinpoint opportunities for emission reduction. Consider the top-
+  line revenue opportunities (eg. customer acquisition, adoption of greener products, improved performance and UX, etc.) and
+  bottom-line cost savings (lower hosting fees, streamlined
+  development, etc.) when presenting your findings to the team.
+
+  - Prioritize opportunities for emission reduction and build
+  a roadmap accordingly
+
+  - Repeat annually, or in line with your business development
+  strategy
+
+success: |
+  - Collective efforts to gauge and reduce ecological
+  footprints
+
+  - Cross-departmental participation in green
+  initiatives
+
+consider: |
+  As a product leader, it's important to recognize that your
+  impact and influence can extend beyond the digital realm. As an
+  example, if shipping emissions are a big chunk of the emissions
+  profile of your e-commerce business, you could lower emissions
+  by reducing the return rate of your physical product (by helping
+  users buy the right product, at the right size, colour, specs, etc.)
+  and by partnering with sustainable, electric local shipping
+  companies.
+  In 2022, approximately 16.5% of items purchased online were
+  returned in the US. Imagine the impact you could make by
+  offering a better purchasing experience! Read more on how to
+  Influence your value chain and partners.
+---

@@ -1,0 +1,61 @@
+Title: Delete old user accounts and old data
+
+----
+
+Text: [{"id": "delete-old-user-accounts-and-old-data", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 560
+
+----
+
+Number: 32
+
+----
+
+Icon: /assets/climate-icons/Icon-Remove.svg
+
+----
+
+Section: Design Frugally
+
+----
+
+Previous page: kill-unused-features
+
+----
+
+Next page: implement-caching-batching-and-offline-features
+
+----
+
+Chapter tag: design-frugally
+
+----
+
+Layout: best-practice

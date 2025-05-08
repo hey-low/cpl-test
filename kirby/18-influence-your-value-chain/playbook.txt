@@ -1,0 +1,61 @@
+Title: Influence your value chain and partners
+
+----
+
+Text: [{"id": "influence-your-value-chain", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 240
+
+----
+
+Number: 17
+
+----
+
+Icon: /assets/climate-icons/Icon-Collaboration.svg
+
+----
+
+Section: Use your influence
+
+----
+
+Previous page: share-your-commitments
+
+----
+
+Next page: discover-mindfully
+
+----
+
+Chapter tag: use-your-influence
+
+----
+
+Layout: best-practice

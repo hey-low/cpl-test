@@ -1,0 +1,61 @@
+Title: Introduction
+
+----
+
+Text: [{"id": "introduction", "type": "text", "isHidden": false, "content": {"text": "# Introduction\n \n### The Role of Digital Product Managers in the Climate Crisis\n \nDigital products shape the modern world—but they come with hidden environmental costs. From electricity-hungry data centers to carbon-intensive software, the digital economy is deeply intertwined with the climate crisis. As digital product managers, we are uniquely positioned to turn this challenge into an opportunity.\n \nThe Climate-Conscious Product Management playbook offers a structured approach to integrate environmentally conscious decision-making into digital product development. It goes beyond making products more efficient—it's about redefining how we design, build, and scale digital solutions to prioritize both performance and planetary health.\n \nThis playbook guides product managers, designers, engineers, and business leaders in embedding sustainability into their roadmaps, workflows, and KPIs. It delivers practical strategies for reducing environmental impact while advancing innovation, growth, and user experience.\n \n### What You'll Learn in This Playbook\n \nEach chapter breaks down the core principles of climate-conscious product management, showing you how to measure, improve, and scale sustainable digital practices.\n \n1. Embed sustainability into your rituals - this chapter provides practical strategies for integrating sustainability into daily product management practices.\n2. Build sustainable AI products - this chapter explores how product teams can leverage AI responsibly, balancing innovation with sustainability.\n3. Use Your Influence - this chapter explores how to gain executive buy-in, collaborate across teams, and embed sustainability into company culture and product workflows.\n4. Discover Mindfully - this chapter explores essential sustainability metrics, including carbon footprint analysis, energy consumption tracking, and data efficiency, laying the groundwork for informed decision-making.\n5. Design Frugally - this chapter examines energy-efficient UX/UI design, optimized coding practices, and infrastructure choices that minimize digital waste while maintaining performance.\n6. Become Carbon Aware - this chapter presents strategies for incorporating environmental responsibility into roadmaps, making sustainability a core business priority rather than an afterthought.\n \n### Why This Matters\n \nThe digital industry has traditionally prioritized speed, scale, and efficiency—but today, it must equally embrace sustainability. The Climate-Conscious Product Management Playbook empowers product leaders to future-proof their digital products while reducing their environmental impact.\n \nBy implementing this playbook's strategies, product teams can:\n \n✅ Reduce the carbon footprint of digital products without sacrificing performance or usability.\n \n✅ Optimize infrastructure, data usage, and design for more sustainable, efficient experiences.\n \n✅ Embed sustainability into product strategies, KPIs, and business models to create lasting change.\n \n✅ Drive organizational change through collaboration across product, engineering, design, and leadership teams.\n \n✅ Leverage AI responsibly to achieve innovation while maintaining energy efficiency.\n \nAs digital product leaders, we sit at the intersection of innovation, efficiency, and impact. While this playbook centers on climate-conscious thinking, its principles extend far beyond environmental benefits. \n \nBy optimizing for sustainability, product teams unlock competitive advantages while driving business success:\n \n- Cost savings through smarter, energy-efficient infrastructure and reduced resource consumption.\n- Improved user experience through leaner, faster digital products that create direct paths to value.\n- Revenue growth through enhanced acquisition, engagement, and retention—particularly among customers who value responsible, efficient digital experiences.\n \nThese practices don't just benefit the planet—they help your product and business perform better, run leaner, and connect more deeply with users. This playbook guides you in making choices that are both responsible and strategic and high-impact at every step."}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 1
+
+----
+
+Number: 
+
+----
+
+Icon: /assets/climate-icons/Icon-Building.svg
+
+----
+
+Section: Context
+
+----
+
+Previous page: 
+
+----
+
+Next page: acknowledgements
+
+----
+
+Chapter tag: context
+
+----
+
+Layout: best-practice

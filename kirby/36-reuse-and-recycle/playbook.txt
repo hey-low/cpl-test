@@ -1,0 +1,61 @@
+Title: Reuse and recycle
+
+----
+
+Text: [{"id": "reuse-and-recycle", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 560
+
+----
+
+Number: 24
+
+----
+
+Icon: /assets/climate-icons/Icon-Reuse.svg
+
+----
+
+Section: Discover Mindfully
+
+----
+
+Previous page: avoid-obsolescence-tactics
+
+----
+
+Next page: align-business-models-with-sustainability-goals
+
+----
+
+Chapter tag: discover-mindfully
+
+----
+
+Layout: best-practice

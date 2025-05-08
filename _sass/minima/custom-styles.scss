@@ -1,0 +1,80 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+body { 
+  background-color: #FCFFE7;
+  &.embed-rituals { background-color: #E2FCF3; }
+  &.influence { background-color: #EBFDE3; }
+  &.design-frugally { background-color: #DAD6F8; }
+  &.discover-mindfully { background-color: #F7FEC3; }
+  &.sustainable-ai { background-color: #F7FEC3; }
+}
+
+h1, h2, h3, h4, h5, h6, .site-header { font-family: $title-font-family;  }
+
+.playbook-hr { margin-bottom: $spacing-unit; }
+
+.wrapper, .site-header { border-bottom: none; }
+
+.hero {
+  font-size: 3em;
+  font-weight: bold;
+  max-width: 600px;
+  text-align: left;
+  line-height: 1em;
+}
+
+.home img { margin-top: 2em; }
+
+.playbook-topRow img { margin: 0; }
+.playbook-topRow h3 { text-transform: uppercase; font-size: 2em; line-height: 1em; }
+a.playbook-anchor { text-decoration: none; color: black; }
+a.playbook-anchor:hover { text-decoration: none; color: black; }
+#playbook-contents { 
+  list-style: none;
+  margin-left: 0;
+  text-transform: uppercase;
+  margin: 2em 0 2em 0;
+  font-size: 1.2em;
+  line-height: 2em;
+  .title { font-style: italic; }
+  .number {
+    font-weight: bold;
+    width: 40px;
+    display: inline-block;
+  }
+  h3 { margin-top: 1.5em; }
+}
+.best-practice { margin-top: 2em; display: block; width: 100%;}
+
+.playbook-nav {
+  margin: 3em 0;
+  display: block;
+  width: 100%;
+  height: 3em;
+  text-transform: uppercase;
+  a { width: 40%; }
+  &-title {
+    width: 100%;
+    display: block;
+    font-style: italic;
+    font-size: 0.8em;
+  }
+  &-prev {
+    float: left;
+    display: inline;
+  }
+  &-next {
+    float: right;
+    display: inline;
+    text-align: right;
+  }
+}
+
+div.bigquote {
+  font-size: 1.5em;
+  text-align: center;
+  margin: 80px auto;
+}
+
+span.highlight { background-color: #E6F56F; }

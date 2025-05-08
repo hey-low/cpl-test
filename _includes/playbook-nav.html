@@ -1,0 +1,20 @@
+<div class="playbook-nav">
+  {% if page.previous-page %}
+    {% assign prev_page = site.playbook | where: "slug", page.previous-page | first %}
+    <a class="playbook-nav-prev" href="{{ prev_page.slug }}">
+      ← Previous <span class="playbook-nav-title">{{ prev_page.title }}</span>
+    </a>
+  {% else %}
+  <a class="playbook-nav-prev" href="/website/playbook/">
+    ← Previous <span class="playbook-nav-title">Playbook Contents</span>
+  </a>
+  {% endif %}
+  {% if page.next-page %}
+    {% assign next_page = site.playbook | where: "slug", page.next-page | first %}
+      {% if next_page %}
+        <a class="playbook-nav-next" href="{{ next_page.slug }}">
+          Next → <span class="playbook-nav-title">{{ next_page.title }}</span>
+        </a>
+      {% endif %} 
+  {% endif %}  
+</div>

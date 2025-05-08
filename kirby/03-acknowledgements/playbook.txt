@@ -1,0 +1,61 @@
+Title: Acknowledgements
+
+----
+
+Text: [{"id": "acknowledgements", "type": "text", "isHidden": false, "content": {"text": "# Acknowledgements\n\nWe couldn't have started this playbook, let alone finish writing it, without the support of some amazing people we met in our respective climate journey and the climate community at large.\n\nA big thank you to our amazing reviewers who provided thoughtful feedback and challenged us to improve every bit of this playbook. We’re forever grateful for your time and dedication to bringing the best climate practices for product managers and fostering climate action further\n\n<h2 style=\"text-align:center;margin-top:2em\">V1 of the Playbook (December 2023)</h2>\n\n<ul style=\"list-style:none;text-align:center;font-size:1.1em;margin-left:0;line-height:1.8em\">\n  <li>Alban Grimaud, Co-founder - Homeric.ai</li>\n  <li>Anne Currie, Co-Founder - Strategically GreeH</li>\n  <li>Aran Rasmussen, Lead AI Product Manager - Salesfloor</li>\n  <li>Boris Gamazaychikov, Senior Manager, Emissions Reduction - Salesforce</li>\n  <li>Chris Moisan, Co-Founder - Product for Net Zero</li>\n  <li>Claire Thornewill, Digital Sustainability Lead, Cognizant NetcentriQ</li>\n  <li>Dan O’Connell, Co-Founder - Product for Net Zero</li>\n  <li>Delphine Raymond, Product Coach - Freelance</li>\n  <li>Frederick Marchand, CEO - Fruggr & Digital4better</li>\n  <li>Gael Duez, Speaker & Digital Sustainability Advocate - duez.co</li>\n  <li>Gary Brandeleer, Product Manager, Emerging Tech and Product - Salesforce</li>\n  <li>Jade Spector, Conservationist</li>\n  <li>Jean Sebastien Chouinard, Fractional CPO - Freelance</li>\n  <li>Julien Hivon, Senior Manager, Cybersecurity Program - Desjardins</li>\n  <li>Marc-André Groulx, Principal Customer Success Account Manager - Microsoft</li>\n  <li>Martin Deron, Research Advisor, Digitalization & Sustainability, University of Montreal</li>\n  <li>Nicolas Paries, Founder, Design & Code - Hey Low</li>\n  <li>Peter Stovall, Lead Product Manager - Raptor Map</li>\n  <li>Sébastien Crespin, Senior Ecommerce Technology Manager - Herschel Supply Company</li>\n  <li>Sylvain Amoros, Adjunct Professor, Chair of electronic commerce - HEC Montréal</li>\n  <li>Tereze Gaile, Technical Architect - MuleSoft</li>\n  <li>Todd Touesnard, Head of Product - Optiwatt</li>\n  <li>Tyson Read, Director of Product Management - Salesforce</li>\n  <li>Yoann Castanié, Co-Founder, Product & Experience Designer - Collective.Design</li>\n</ul>\n\n<h2 style=\"text-align:center;margin-top:2em\">V2 of the Playbook (April 2024)</h2>\n\n<ul style=\"list-style:none;text-align:center;font-size:1.1em;margin-left:0;line-height:1.8em\">\n  <li>Alexander Crease, Product Sustainability Engineer - CarbonGraph</li>\n  <li>Ava Yazdani, Senior Product Manager - Mission-Driven Tech</li>\n  <li>Ayushi Raj Bhatt, Product Manager Intern - Orama</li>\n  <li>Boris Gamazaychikov, Head of AI Sustainability - Salesforce</li>\n  <li>Catherine Kherian, Senior Product Manager - PowerFlex</li>\n  <li>Cécile Peres, Senior Product Manager - Thiga</li>\n  <li>Jesse Ramon-Brown, CEO & Co-Founder - Enverse Lab</li>\n  <li>John Steward, Head of Product - Department for Environment Food and Rural Affairs</li>\n  <li>Laurent Devernay Satyagraha, Sustainable Digital Technical Consultant - Greenspector</li>\n  <li>Leonardo Ernst, Product Designer - Thiga</li>\n  <li>Martina Klose, Digital Product Leadership & Growth - Thiga</li>\n  <li>Patrick Louis, Program Manager - Equilibrium Energy</li>\n  <li>Tim Frick, Founder & President - Mightybytes</li>\n  <li>Timo Müller, Co-Founder & Managing Director - Leaders for Climate Action</li>\n  <li>Typhaine Brigand de Poret, CSR Consultant - Groupe SYD</li>\n  <li>Vincent Pavero, CEO & Co-Founder - Homeric</li>\n</ul>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 10
+
+----
+
+Number: 
+
+----
+
+Icon: /assets/climate-icons/Icon-Building.svg
+
+----
+
+Section: Context
+
+----
+
+Previous page: introduction
+
+----
+
+Next page: measure-environmental-impact
+
+----
+
+Chapter tag: context
+
+----
+
+Layout: best-practice

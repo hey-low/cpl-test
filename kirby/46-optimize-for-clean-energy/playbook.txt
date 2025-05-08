@@ -1,0 +1,61 @@
+Title: Optimize for clean energy
+
+----
+
+Text: [{"id": "optimize-for-clean-energy", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">Electricity Maps is a useful platform that provides a simple way to understand carbon intensity based on location and timing. It helps you realize that the same digital experience can lead to significantly different carbon emissions depending on where your users are accessing it.</span>\n</div>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 640
+
+----
+
+Number: 37
+
+----
+
+Icon: /assets/climate-icons/Icon-Sun.svg
+
+----
+
+Section: Become Carbon Aware
+
+----
+
+Previous page: set-up-ultra-eco-mode
+
+----
+
+Next page: pause-or-deactivate-services-tactically
+
+----
+
+Chapter tag: become-carbon-aware
+
+----
+
+Layout: best-practice

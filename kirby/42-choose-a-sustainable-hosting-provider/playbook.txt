@@ -1,0 +1,61 @@
+Title: Choose a sustainable hosting provider
+
+----
+
+Text: [{"id": "choose-a-sustainable-hosting-provider", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 610
+
+----
+
+Number: 34
+
+----
+
+Icon: /assets/climate-icons/Icon-Clouds.svg
+
+----
+
+Section: Become Carbon Aware
+
+----
+
+Previous page: become-carbon-aware
+
+----
+
+Next page: promote-green-user-behaviors
+
+----
+
+Chapter tag: become-carbon-aware
+
+----
+
+Layout: best-practice

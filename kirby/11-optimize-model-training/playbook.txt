@@ -1,0 +1,61 @@
+Title: Optimize AI Model Training and Inference
+
+----
+
+Text: [{"id": "optimize-model-training", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"Learning algorithms are the seeds, data is the soil, and the learned programs are the grown plants. The machine-learning expert is like a farmer, sowing the seeds, irrigating and fertilizing the soil, and keeping an eye on the health of the crop but otherwise staying out of the way.\"</span>\n</div>\n\n<p style=\"text-align:center;\">Pedro Domingos, <a href=\"https://www.goodreads.com/book/show/24612233-the-master-algorithm\">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a></p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 140
+
+----
+
+Number: 11
+
+----
+
+Icon: /assets/climate-icons/Icon-Connect.svg
+
+----
+
+Section: Build Sustainable AI Products
+
+----
+
+Previous page: prioritize-sustainable-ai-design
+
+----
+
+Next page: refine-architecture
+
+----
+
+Chapter tag: sustainable-ai
+
+----
+
+Layout: best-practice

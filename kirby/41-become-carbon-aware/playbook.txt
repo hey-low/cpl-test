@@ -1,0 +1,61 @@
+Title: Become Carbon Aware
+
+----
+
+Text: [{"id": "become-carbon-aware", "type": "text", "isHidden": false, "content": {"text": "#### Chapter 6\n# Become Carbon Aware\n\n<div class=\"bigquote\" style=\"text-align:left;\"> \n  <p>Here, the spotlight is on the criticality of understanding and acting on the carbon footprint of digital products. This segment equips you with the knowledge to measure, reduce, and manage your carbon impact, emphasizing a move toward greener technology and sustainable innovation. It’s a guide to going further than existing standards in the tech industry and setting the bar higher.</p>\n</div>\n\n<div class=\"bigquote\">\n  <span class=\"highlight\">\"You cannot get through a single day without having an impact on the world around you. What you do makes a difference, and you have to decide what kind of difference you want to make.\"</span>\n</div>\n\n<p style=\"text-align:center;\">Jane Goodall, Primatologist and Environmentalist</p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 600
+
+----
+
+Number: 
+
+----
+
+Icon: 
+
+----
+
+Section: Become Carbon Aware
+
+----
+
+Previous page: implement-caching-batching-and-offline-features
+
+----
+
+Next page: choose-a-sustainable-hosting-provider
+
+----
+
+Chapter tag: become-carbon-aware
+
+----
+
+Layout: best-practice

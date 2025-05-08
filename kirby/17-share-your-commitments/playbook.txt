@@ -1,0 +1,61 @@
+Title: Share your commitment, actions and journey publicly
+
+----
+
+Text: [{"id": "share-your-commitments", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"The greatest threat to our planet is the belief that someone else will save it.\"</span>\n</div>\n\n<p style=\"text-align:center;\">Robert Swan, Polar Explorer and Environmentalist</p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 230
+
+----
+
+Number: 16
+
+----
+
+Icon: /assets/climate-icons/Icon-Communaute.svg
+
+----
+
+Section: Use your influence
+
+----
+
+Previous page: organize-talks
+
+----
+
+Next page: influence-your-value-chain
+
+----
+
+Chapter tag: use-your-influence
+
+----
+
+Layout: best-practice

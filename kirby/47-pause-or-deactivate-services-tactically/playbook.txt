@@ -1,0 +1,61 @@
+Title: Pause or deactivate services tactically
+
+----
+
+Text: [{"id": "pause-or-deactivate-services-tactically", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"We need to shift from Always-ON to Always-Available practice.\"</span>\n</div>\n\n<p style=\"text-align:center;\">Shanna Grafeld, Gartner</p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 650
+
+----
+
+Number: 38
+
+----
+
+Icon: /assets/climate-icons/Icon-Pause.svg
+
+----
+
+Section: Become Carbon Aware
+
+----
+
+Previous page: optimize-for-clean-energy
+
+----
+
+Next page: conclusion
+
+----
+
+Chapter tag: become-carbon-aware
+
+----
+
+Layout: best-practice

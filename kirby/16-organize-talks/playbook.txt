@@ -1,0 +1,61 @@
+Title: Organize talks, raise awareness, and promote training
+
+----
+
+Text: [{"id": "organize-talks", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"The best way to predict the future is to create it.\"</span>\n</div>\n\n<p style=\"text-align:center;\">—Peter Drucker, Management Consultant and Author</p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 220
+
+----
+
+Number: 15
+
+----
+
+Icon: /assets/climate-icons/Icon-Megaphone.svg
+
+----
+
+Section: Use your influence
+
+----
+
+Previous page: influence-and-collaborate-with-stakeholders
+
+----
+
+Next page: share-your-commitments
+
+----
+
+Chapter tag: use-your-influence
+
+----
+
+Layout: best-practice

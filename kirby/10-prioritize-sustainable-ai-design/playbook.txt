@@ -1,0 +1,61 @@
+Title: Prioritize Sustainable AI Design
+
+----
+
+Text: [{"id": "prioritize-sustainable-ai-design", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">A single ChatGPT query requires 2.9 watt-hours of electricity, compared with 0.3 watt-hours for a pre-genAI Google search, according to the International Energy Agency.</span>\n</div>\n\n<p style=\"text-align:center;\"><a href=\"https://www.epri.com/research/products/3002028905\">Powering Intelligence: Analyzing Artificial Intelligence and Data Center Energy Consumption</a></p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 130
+
+----
+
+Number: 10
+
+----
+
+Icon: /assets/climate-icons/Icon-AIStar.svg
+
+----
+
+Section: Build Sustainable AI Products
+
+----
+
+Previous page: use-data-efficiently
+
+----
+
+Next page: optimize-model-training
+
+----
+
+Chapter tag: sustainable-ai
+
+----
+
+Layout: best-practice

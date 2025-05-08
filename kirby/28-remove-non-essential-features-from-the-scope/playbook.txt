@@ -1,0 +1,61 @@
+Title: Remove non-essential features from the scope
+
+----
+
+Text: [{"id": "remove-non-essential-features-from-the-scope", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 530
+
+----
+
+Number: 21
+
+----
+
+Icon: /assets/climate-icons/Icon-Remove-Non-Essential.svg
+
+----
+
+Section: Discover Mindfully
+
+----
+
+Previous page: validate-the-user-journey-and-needs
+
+----
+
+Next page: prioritize-a-mobile-first-approach
+
+----
+
+Chapter tag: discover-mindfully
+
+----
+
+Layout: best-practice

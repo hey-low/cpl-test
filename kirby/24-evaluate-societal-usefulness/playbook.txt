@@ -1,0 +1,61 @@
+Title: Evaluate societal usefulness
+
+----
+
+Text: [{"id": "evaluate-societal-usefulness", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">“We no longer have the luxury of time or resources to create services that don’t serve a purpose in society.” </span>\n</div>\n\n<p style=\"text-align:center;\">Climate Product Leaders</a></p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 510
+
+----
+
+Number: 18
+
+----
+
+Icon: /assets/climate-icons/Icon-Globe.svg
+
+----
+
+Section: Discover Mindfully
+
+----
+
+Previous page: discover-mindfully
+
+----
+
+Next page: anticipate-consequences
+
+----
+
+Chapter tag: discover-mindfully
+
+----
+
+Layout: best-practice

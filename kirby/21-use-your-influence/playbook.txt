@@ -1,0 +1,61 @@
+Title: Use your influence
+
+----
+
+Text: [{"id": "use-your-influence", "type": "text", "isHidden": false, "content": {"text": "#### CHAPTER 3\n# Use your influence\n\n<div class=\"bigquote\" style=\"text-align:left;\"> \n  <p>This section speaks for the power of leadership in driving environmental change. It's a call to action for product managers to leverage their position, promoting sustainable practices within and beyond their sphere of influence. This chapter is about leading the charge in ecological responsibility, inspiring a movement towards a more sustainable tech world.</p>\n</div>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 300
+
+----
+
+Number: 
+
+----
+
+Icon: 
+
+----
+
+Section: Use your influence
+
+----
+
+Previous page: case-study-salesforce-llm
+
+----
+
+Next page: set-up-a-climate-working-group
+
+----
+
+Chapter tag: use-your-influence
+
+----
+
+Layout: best-practice

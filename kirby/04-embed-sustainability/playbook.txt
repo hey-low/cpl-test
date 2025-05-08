@@ -1,0 +1,61 @@
+Title: Embed Sustainability Into Your Rituals
+
+----
+
+Text: [{"id": "embed-sustainability", "type": "text", "isHidden": false, "content": {"text": "#### CHAPTER 1\n# Embed Sustainability Into Your Rituals\n\n<div class=\"bigquote\" style=\"text-align:left;\">\nDive into the heart of integrating environmental sustainability into every facet of product management. It's all about making green choices as part of your everyday routine. Here, you'll explore how process decisions and actions can collectively drive significant environmental progress, transforming novel green initiatives into a standard operating procedure that's second nature.\n</div>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 10
+
+----
+
+Number: 
+
+----
+
+Icon: /assets/climate-icons/Icon-Building.svg
+
+----
+
+Section: Embed Sustainability Into Your Rituals
+
+----
+
+Previous page: foreword-and-introduction
+
+----
+
+Next page: measure-environmental-impact
+
+----
+
+Chapter tag: embed-rituals
+
+----
+
+Layout: best-practice

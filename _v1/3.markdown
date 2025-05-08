@@ -1,0 +1,69 @@
+---
+layout: best-practice
+title: "Track your digital footprint"
+order: 3
+icon: /assets/climate-icons/Icon-Building.svg
+number: "03"
+section: Embed In Your Rituals
+chapter-tag: embed-rituals
+
+matter: |
+  Zooming in on digital emissions and impact is critical 
+  to building a coherent plan to start or accelerate your sustainable
+  journey. Whether you manage a website, a platform or an app, there
+  are different service providers, tools, and platforms to help you
+  measure your impact and build a compelling pathway to
+  sustainability.
+
+do: |
+  - Choose the right metrics
+
+  Figure out whether you have the resources internally 
+  to undertake an initial audit and ongoing measurement, 
+  or if you may need to outsource this phase
+
+  There are some great free tools that can help you to get started
+  and measure simple web pages, such as Ecograder or Beacon -
+  both powered by CO2.js. You can also get a Digital Ratings or
+  Score using Sustainable Web Design or eco Index - the latter is
+  available only in French.
+
+  Other tools offer specific measurements depending on 
+  your needs, such as CO2.js for websites, apps, and platforms,
+  Greenspector for user scenarios or web apps, Step CI for APIs, or
+  Cloud Carbon Footprint for cloud services
+
+  You can understand the impact of existing third parties 
+  with BuiltWith or Are my third parties green
+
+  We recommend that you go with tools designed with companies
+  like yours in mind that offer specialist features, such as fruggr.io,
+  Verdikt, or Greenframe if you're ready to invest in 
+  a comprehensive solution
+
+  Make sure measurements include impacts from devices,
+  networks, and data centers across their life cycle
+  (manufacturing, distribution, usage, to end of life)
+
+
+success: |
+  Collective efforts to gauge and reduce ecological
+  footprints
+
+  Cross-departmental participation in green
+  initiatives
+
+consider: |
+  As a product leader, it's important to recognize that your
+  impact and influence can extend beyond the digital realm. As an
+  example, if shipping emissions are a big chunk of the emissions
+  profile of your e-commerce business, you could lower emissions
+  by reducing the return rate of your physical product (by helping
+  users buy the right product, at the right size, colour, specs, etc.)
+  and by partnering with sustainable, electric local shipping
+  companies.
+  In 2022, approximately 16.5% of items purchased online were
+  returned in the US. Imagine the impact you could make by
+  offering a better purchasing experience! Read more on how to
+  Influence your value chain and partners.
+---

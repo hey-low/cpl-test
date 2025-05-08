@@ -1,0 +1,61 @@
+Title: Anticipate consequences
+
+----
+
+Text: [{"id": "anticipate-consequences", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"Mindful product design means thinking about how what we create affects the world beyond just the bottom line.”</span>\n</div>\n\n<p style=\"text-align:center;\">—Tim Brown, CEO of IDEO</p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 520
+
+----
+
+Number: 19
+
+----
+
+Icon: /assets/climate-icons/Icon-Chrono.svg
+
+----
+
+Section: Discover Mindfully
+
+----
+
+Previous page: evaluate-societal-usefulness
+
+----
+
+Next page: validate-the-user-journey-and-needs
+
+----
+
+Chapter tag: discover-mindfully
+
+----
+
+Layout: best-practice

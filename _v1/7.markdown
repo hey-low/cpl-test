@@ -1,0 +1,65 @@
+---
+layout: best-practice
+title: "Onboard developers and designers"
+order: 7
+icon: /assets/climate-icons/Icon-Building.svg
+number: "07"
+section: Embed In Your Rituals
+chapter-tag: embed-rituals
+
+matter: |
+  Your backlog holds great potential for engagement with 
+  your stakeholders and communicating what is important for the
+  product moving forward and why. Refining it with your team is a
+  great moment to incorporate and address climate considerations 
+  as part of the process. Once tickets are prioritized into a sprint, you
+  will have identified and mitigated some climate risks and impacts.
+
+do: |
+  - Create user stories (US) specific to climate and sustainability
+  that will help to support your entire product (systemic impact
+  across features)
+
+  - Use tags to identify climate and sustainability-specific US
+
+  - Consider energy consumption and GHG emissions during
+  grooming and sprint preparation. Some features may be
+  ‘oversized’, and others may be more energy-consuming or
+  complex than you thought.
+
+  - Ideate on early-stage solutions and compare their
+  environmental impact
+
+  - Assign an estimated environmental impact to user stories or
+  product increments, including both backend and frontend
+  impacts
+
+  - Prioritize climate and sustainability-specific user stories in your
+  sprint planning, just as you would prioritize bugs, security
+  tickets, technical debt, refactoring, etc.
+
+  - Consider a climate-focused sprint as a means of applying all 
+  the best practices discussed. Normalise your climate action 
+  by ensuring that the same discussions continue to take place 
+  on an ongoing basis.
+
+success: |
+  - Enhanced user experience leading to improved
+  conversion rates and overall satisfaction
+
+  - Adoption of cleaner electricity sources 
+  for operations
+
+  - Established targets for reduced carbon and 
+  greenhouse gas emissions
+
+consider: |
+  When you Track your digital footprint; leveraging
+  data to explain and support the prioritization of climate features
+  that will help reduce your emissions will be easier.
+
+  We recommend that you keep the discussion about the impact
+  you are trying to achieve rather than the specific way to improve
+  performance and metrics. Empower and trust your team to know
+  what to do if you are clear about priorities and acceptable tradeoffs. Aim for improvement, not perfection. Making climate part of the prioritization process is a huge step forward!
+---

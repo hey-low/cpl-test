@@ -1,0 +1,61 @@
+Title: Set up ultra eco-mode
+
+----
+
+Text: [{"id": "set-up-ultra-eco-mode", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">[Branch](https://branch.climateaction.tech/) is an online magazine published by the [Green Web Foundation](https://www.thegreenwebfoundation.org/). Their site changes its design based on the quantity of fossil fuels on the grid to stay inside a carbon budget at all times. This example illustrates how to both adapt your experience and educate your users when the grid intensity is high.</span>\n</div>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 630
+
+----
+
+Number: 36
+
+----
+
+Icon: /assets/climate-icons/Icon-Factory.svg
+
+----
+
+Section: Become Carbon Aware
+
+----
+
+Previous page: promote-green-user-behaviors
+
+----
+
+Next page: optimize-for-clean-energy
+
+----
+
+Chapter tag: become-carbon-aware
+
+----
+
+Layout: best-practice

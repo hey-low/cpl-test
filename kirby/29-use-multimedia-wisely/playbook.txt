@@ -1,0 +1,61 @@
+Title: Use multimedia wisely
+
+----
+
+Text: [{"id": "use-multimedia-wisely", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"Reducing YouTube’s digital waste in the form of unused image (i.e audio-only stream of music) could save 500,000 tons of CO2.\n  \n  That’s more saving than YouTube using renewable energies to power servers.\"</span>\n</div>\n\n<p style=\"text-align:center;\"><a href=\"https://www.wired.com/story/youtube-digital-waste-interaction-design/\">YouTube's carbon footprint is huge, but smarter web design could fix it</a></p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 530
+
+----
+
+Number: 28
+
+----
+
+Icon: /assets/climate-icons/Icon-Camera.svg
+
+----
+
+Section: Design Frugally
+
+----
+
+Previous page: reduce-page-weight
+
+----
+
+Next page: optimize-multimedia-files
+
+----
+
+Chapter tag: design-frugally
+
+----
+
+Layout: best-practice

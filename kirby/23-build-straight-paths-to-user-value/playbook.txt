@@ -1,0 +1,61 @@
+Title: Build straight paths to user value
+
+----
+
+Text: [{"id": "build-straight-paths-to-user-value", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 510
+
+----
+
+Number: 26
+
+----
+
+Icon: /assets/climate-icons/Icon-Forward.svg
+
+----
+
+Section: Design Frugally
+
+----
+
+Previous page: align-business-models-with-sustainability-goals
+
+----
+
+Next page: reduce-page-weight-and-complexity
+
+----
+
+Chapter tag: design-frugally
+
+----
+
+Layout: best-practice

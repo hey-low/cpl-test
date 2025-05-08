@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.5 18.6943C21.5 20.7347 17.2467 22.3888 12 22.3888C6.75329 22.3888 2.5 20.7347 2.5 18.6943" stroke="black" stroke-width="0.75"/>
+<ellipse cx="12" cy="6.69444" rx="9.5" ry="3.69444" stroke="black" stroke-width="0.75"/>
+<path d="M21.5 14.6943C21.5 16.7347 17.2467 18.3888 12 18.3888C6.75329 18.3888 2.5 16.7347 2.5 14.6943" stroke="black" stroke-width="0.75"/>
+<path d="M21.5 10.6943C21.5 12.7347 17.2467 14.3888 12 14.3888C6.75329 14.3888 2.5 12.7347 2.5 10.6943" stroke="black" stroke-width="0.75"/>
+<path d="M2.5 6.5L2.5 18.7456" stroke="black" stroke-width="0.75"/>
+<path d="M21.5 7L21.5 18.7188" stroke="black" stroke-width="0.75"/>
+<circle cx="10" cy="12.5" r="0.5" fill="black"/>
+<circle cx="10" cy="16.5" r="0.5" fill="black"/>
+<circle cx="10" cy="20.5" r="0.5" fill="black"/>
+<circle cx="12" cy="12.5" r="0.5" fill="black"/>
+<circle cx="12" cy="16.5" r="0.5" fill="black"/>
+<circle cx="12" cy="20.5" r="0.5" fill="black"/>
+<circle cx="14" cy="12.5" r="0.5" fill="black"/>
+<circle cx="14" cy="16.5" r="0.5" fill="black"/>
+<circle cx="14" cy="20.5" r="0.5" fill="black"/>
+</svg>

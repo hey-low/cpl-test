@@ -1,0 +1,68 @@
+---
+layout: best-practice
+title: "Delete old user accounts and old data"
+order: 22
+icon: /assets/climate-icons/Icon-Building.svg
+number: "22"
+section: Design Frugally
+chapter-tag: design-frugally
+
+matter: |
+  Even though all business contexts are different, a set of 
+  key environmental metrics should help you drive positive impact.
+  These metrics are generally greenhouse gas emissions (starting
+  with carbon emissions), energy consumption, water consumption,
+  resource use and depletion, water/air/soil pollution, ecotoxicity,
+  biodiversity, etc. Some are more obvious than others, and you 
+  won’t track them all on day one. 
+
+
+  But metrics will be key to making informed and effective decisions
+  to reduce your impact on the environment. Plus, you’ll see when
+  you’re making progress.
+
+do: |
+  - Start simple, reliable, and consistent. You, your product team,
+  and the data team must trust the data to be credible and
+  convincing when interacting with stakeholders, and building
+  momentum towards climate action.
+
+  - Consider both absolute metrics (e.g. CO2e) and relative metrics
+  (CO2e per page, visit, user, employee, revenue generated, etc.)
+
+  - Factor different types of impact: greenhouse gas emissions 
+  (in g of CO2e or kg of CO2e), Energy consumption (in kWh),
+  Water consumption (in cl or l), depletion of natural resources,
+  etc.
+
+  - Measure data transfer parameters: page weight (in KB), number
+  of requests, and load time (in s). Keep in mind that it will not be
+  the absolute way to measure but it is a good starting point in
+  your journey.
+
+  - Use the right tools for your context and your needs. 
+  See more in Track your digital footprint.
+
+  - Report these metrics against OKRs and KPIs and include 
+  those metrics in your ESG reporting
+
+success: |
+  - Collective efforts to gauge and reduce ecological
+  footprints
+
+  - Building trust through transparent data collection and
+  valuable insights
+
+consider: |
+  We recommend keeping things simple at the beginning. If
+  you don’t measure anything, go for a proxy (80% accuracy is
+  better than not tracking anything). Observing trends consistently
+  over time is more important than being 100% accurate, and will
+  support you to identify the next steps and keep moving forward.
+
+
+  Measuring your digital footprint once will be a major milestone
+  and should be celebrated. From there, you could set up a
+  dashboard and monitor environmental impact on an ongoing
+  basis to measure progress (or regress)
+---

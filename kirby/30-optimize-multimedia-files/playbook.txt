@@ -1,0 +1,61 @@
+Title: Optimize multimedia files
+
+----
+
+Text: [{"id": "optimize-multimedia-files", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 540
+
+----
+
+Number: 29
+
+----
+
+Icon: /assets/climate-icons/Icon-Magie.svg
+
+----
+
+Section: Design Frugally
+
+----
+
+Previous page: use-multimedia-wisely
+
+----
+
+Next page: minimize-data-transfer
+
+----
+
+Chapter tag: design-frugally
+
+----
+
+Layout: best-practice

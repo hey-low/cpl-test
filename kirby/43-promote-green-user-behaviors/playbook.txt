@@ -1,0 +1,61 @@
+Title: Promote green user behaviors
+
+----
+
+Text: [{"id": "promote-green-user-behaviors", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">[Trainline](https://www.thetrainline.com/), an online platform for booking train and bus tickets in Europe, showcases the reduction in CO2 emissions when choosing to travel by train instead of a car. This not only strengthens the perceived value of their platform but also educates their users about the environmental benefits of train travel.</span>\n</div>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 620
+
+----
+
+Number: 35
+
+----
+
+Icon: /assets/climate-icons/Icon-Green Behaviors.svg
+
+----
+
+Section: Become Carbon Aware
+
+----
+
+Previous page: choose-a-sustainable-hosting-provider
+
+----
+
+Next page: set-up-ultra-eco-mode
+
+----
+
+Chapter tag: become-carbon-aware
+
+----
+
+Layout: best-practice

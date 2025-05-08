@@ -1,0 +1,61 @@
+Title: Case Study: Soft Disabling
+
+----
+
+Text: [{"id": "case-study-soft-disabling", "type": "text", "isHidden": false, "content": {"text": "# Case Study: Soft Disabling - Sustainable Front-End Design Through Feature Deactivation\n\n## Challenge\n\nAs digital products grow increasingly complex, climate conscious developers are exploring ways across the full stack to optimize applications for reduced energy consumption and lower infrastructure costs while maintaining user experience. [Vincent Offroy](https://www.linkedin.com/in/vincentoffroy/?originalSubdomain=fr) has pioneered \"[**soft disabling**](https://medium.com/@offroy.vincent.dev/soft-disabling-fr-4fe2121473ce)\"—an eco-design approach that temporarily deactivates rarely used features after prolonged inactivity rather than permanently removing them. Users can reactivate these features when needed, striking a balance between usability, sustainability, and cost-efficiency. If soft-disabled features remain unused, product teams can consider permanent deprecation.\n\nDigital interfaces often contain numerous features with limited usage. Each feature, especially those requiring API calls, live data fetching, or high computational resources, contributes to infrastructure strain. This approach addresses a three-way dilemma in feature management:\n\n- **API overhead:** Redundant network requests increase server load and energy consumption\n- **Infrastructure costs:** Always-active features inflate hosting and maintenance expenses\n- **User experience concerns:** Removing features outright may alienate specific user groups\n\nSoft disabling relies on strong data-driven decisions to balance these factors in a way that is highly compelling - even when you have minimal stakeholder buy-in for climate conscious initiatives.\n\n## Objectives\n\n- Reduce energy consumption and infrastructure costs by deactivating rarely used features\n- Preserve user experience by maintaining the option to reactivate features when needed\n- Provide data-driven insights to guide future feature development and deprecation\n- Lower application's carbon footprint without sacrificing functionality\n- Create a sustainable approach to feature lifecycle management\n\n## Approach\n\nSoft Disabling introduces an adaptive front-end mechanism:\n\n- **Track usage:** implement analytics to monitor how frequently users interact with each feature, establishing baseline usage patterns and identifying candidates for soft disabling. Ensure all tracking complies with privacy regulations, is covered in your terms of service, and respects user consent choices.\n- **Automated deactivation process:** create mechanisms to automatically hide and disable backend resources for features that remain unused beyond a defined threshold (typically 2-4 weeks)\n- **User-Friendly reactivation:** design intuitive “calls-to-action” (CTAs) - like buttons - that allow users to easily restore disabled features when needed, with minimal friction in the user experience.\n- **Eco-Awareness Messaging:** develop subtle messaging to inform users about the sustainability benefits of feature deactivation, fostering understanding, acceptance and appreciation.\n- **Progressive testing:** implement soft disabling gradually across feature sets, testing different thresholds and reactivation methods to find the optimal balance between resource savings and user satisfaction.\n\n## Impact\n\nSoft disabling can deliver significant environmental and technical benefits:\n\n- **Technical improvements:** reduce unnecessary API requests, lowering energy use. For example, by soft-disabling a feature used by only 5% of users and responsible for 10% of daily API calls, Vincent estimates that this approach would result in a 7% reduction in server energy consumption and a 3% reduction in cloud computing costs.\n- **Customer experience/UX:** improve application performance and responsiveness by lightening page loads, resulting in faster user experiences.\n- **Business impact:** lower infrastructure costs through more efficient resource usage, and more sustainable scaling as user base grows. Reduce technical debt from maintaining unused features, and generate better insights into feature popularity and usage patterns.\n- **User-centric sustainability:** users have control, ensuring accessibility to features while fostering eco-conscious engagement.\n- **Carbon efficiency:** reduce server-side energy consumption from decreased computational demands and thereby lower your product’s carbon footprint.\n\n## Key Takeaways\n\n- **Eco-design requires balance:** soft disabling offers a middle ground between keeping unused features and removing them entirely.\n- **Data-driven decisions are essential:** usage tracking ensures optimizations are based on actual behavior patterns rather than assumptions.\n- **User control preserves experience:** allowing reactivation maintains accessibility while encouraging resource efficiency.\n- **Small optimizations scale significantly:** even minor reductions in per-user resource consumption can produce massive sustainability gains at scale.\n- **Sustainability can enhance UX:** removing clutter and focusing on frequently used features often improves the overall user experience.\n- **User Communication is Important:** transparent communication with users about why features are being temporarily deactivated and the associated benefits (e.g., improved performance, reduced environmental impact) can foster understanding, acceptance and appreciation/kudos.\n\n## Future Steps\n\nWhat’s next for soft disabling?\n\n- Develop machine learning algorithms to predict optimal disabling thresholds based on user segments and behavior patterns.\n- Expand soft disabling to include more resource-intensive backend processes.\n- Create more granular metrics to measure environmental impact of feature usage.\n- Integrate with CI/CD pipelines to incorporate sustainability metrics into development workflows.\n- Establish industry standards for sustainable feature management practices.\n\n## Conclusion\n\nSoft Disabling demonstrates how thoughtful design can align sustainability goals with business objectives and user needs. This is a great way to empower product teams with a clear implementation strategy that is data-driven and highly defensible, even where you have minimal stakeholder buy-in for climate conscious initiatives. By implementing intelligent feature management, organizations can reduce digital waste while maintaining functionality and user satisfaction. As digital products continue to grow in complexity, approaches like soft disabling will become increasingly important for creating sustainable software that minimizes environmental impact without compromising on quality or usability."}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 580
+
+----
+
+Number: 
+
+----
+
+Icon: 
+
+----
+
+Section: Discover Mindfully
+
+----
+
+Previous page: align-business-models-with-sustainability-goals
+
+----
+
+Next page: design-frugally
+
+----
+
+Chapter tag: discover-mindfully
+
+----
+
+Layout: best-practice

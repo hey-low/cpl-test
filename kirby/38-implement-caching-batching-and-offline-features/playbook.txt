@@ -1,0 +1,61 @@
+Title: Implement caching, batching, and offline features
+
+----
+
+Text: [{"id": "implement-caching-batching-and-offline-features", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 570
+
+----
+
+Number: 33
+
+----
+
+Icon: /assets/climate-icons/Icon-Database.svg
+
+----
+
+Section: Design Frugally
+
+----
+
+Previous page: delete-old-user-accounts-and-old-data
+
+----
+
+Next page: become-carbon-aware
+
+----
+
+Chapter tag: design-frugally
+
+----
+
+Layout: best-practice

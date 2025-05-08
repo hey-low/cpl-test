@@ -1,0 +1,61 @@
+Title: Case Study: Automated Server Decommissioning: Achieving Carbon Reduction at Scale for a Greener Future
+
+----
+
+Text: [{"id": "case-study-salesforce-servers", "type": "text", "isHidden": false, "content": {"text": "# Case Study: Automated Server Decommissioning: Achieving Carbon Reduction at Scale for a Greener Future\n\n## Challenge\n\nThe tech sector plays a major role in global energy usage and carbon emissions — projected to account for up to [20% of global energy demands by 2030](https://www.mdpi.com/2078-1547/6/1/117). Data centers are major contributors, using over 205 terawatt hours of electricity each year ([IEA, 2022](https://www.iea.org/reports/data-centres-and-data-transmission-networks)), exceeding the energy consumption of entire countries like [Taiwan, Ireland, and Denmark](https://yearbook.enerdata.net/electricity/electricity-domestic-consumption-data.html).\n\nAddressing this urgent issue, Salesforce remains committed to reducing energy usage and carbon emissions in data centers by optimizing and reducing servers, aligning with the company's sustainability values and pledge to [cut emissions in half by 2030](https://www.salesforce.com/company/sustainability/)). The [Salesforce Decommissioning Program](https://engineering.salesforce.com/automated-server-decommissioning-achieving-carbon-reduction-at-scale-for-a-greener-future/) (SDP) team leads this effort, aiming to retire more than double the number of servers compared to the previous year.\n\nThe team faced several key challenges:\n\n- A complex, 16-step manual decommissioning process increased the probability for human error\n- Lack of visibility into the project's progress\n- Required manual intervention and meticulous investigation of each decommissioning failure case\n- Inefficient and human-centric workflows hindered scalability, resulting in prolonged energy consumption and negative carbon impact\n\n## Objectives\n\n- Streamline and automate the server decommissioning process\n- Reduce manual steps and potential for human error\n- Increase the speed and volume of server retirement\n- Decrease energy consumption and carbon emissions from data centers\n- Create a scalable approach for ongoing infrastructure optimization\n\n## Approach\n\n- **Implementing automation with Autonomous Control Plane (ACP):** ACP automates data center infrastructure lifecycle management, ensuring SDP can scale operations in a safe, secure, predictable, and observable way. ACP executes continuous and incremental changes, enhancing trust by driving the safe and seamless removal of hosts from the network.\n- **Process optimization:** reduced decommissioning manual steps by over 80%, freeing engineers for other critical projects.\n- **Enhancing data management by disconnecting networks:** ACP automatically disconnects decommissioned servers from the production network prior to shutdown, eliminating lengthy manual procedures that are susceptible to human error.\n- **Safety measures:** ACP’s built-in safety net—a five-day grace period—enabled the team to reverse the decommissioning process and swiftly reinstate hosts to the production VLAN if necessary.\n- **Measuring Carbon Impact:** Conducted a detailed carbon impact analysis using Salesforce CRM Analytics dashboards and manually-computed data center metrics, comparing energy consumption and carbon emissions before and after automation to track progress against the baseline.\n\n## Impact\n\n- **Energy conservation:** saved 10,475 megawatt-hours of energy from April 2022 to July 2023, equivalent to powering 83 U.S. households for a year.\n- **Carbon emissions reduction:** reduced 3,506 metric tons of carbon dioxide emissions, removing the need for 15,336 wooded acres to annually absorb that much CO2 from the environment.\n- **Operational efficiency - increased decommissioning speed:** Automation increased the velocity of server decommissioning, leading to the faster powering off of energy-hungry machines.\n- **Significant cost savings:** the automation effort saved approximately $900,000 in energy costs alone between April 2022 and July 2023, while also reducing labor costs by decreasing the manual decommissioning process from 16 steps to just 3 steps - an 80% reduction in required manual intervention.\n\n## Key Takeaways\n\n- **Embrace automation:** leveraging automation tools like ACP can drastically reduce manual intervention, improve efficiency, and enhance sustainability.\n- **Regular monitoring:** continuous monitoring and analysis of carbon impact data are crucial for measuring progress and making data-driven decisions.\n- **Prioritize sustainability:** the SDP team showed that sustainability initiatives can directly support IT's core objectives of cost reduction and operational efficiency. By retiring unnecessary servers, they simultaneously reduced carbon footprint and infrastructure maintenance burden, creating alignment between environmental and business goals.\n\n## Future Steps\n\n- Expand the automated decommissioning process to additional data centers across the global infrastructure.\n- Develop more advanced predictive analytics to identify servers for decommissioning based on utilization patterns.\n- Explore additional opportunities for energy efficiency in data center operations.\n- Share best practices and methodologies with the broader tech industry to amplify environmental impact.\n- Continue refining carbon impact measurement methodologies for greater accuracy.\n\n## Conclusion\n\nSalesforce’s Automated Server Decommissioning Program demonstrates the significant impact that automation can have on reducing carbon emissions and improving operational efficiency. This case study serves as a model for other companies aiming to achieve similar sustainability goals through innovative technology solutions."}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 640
+
+----
+
+Number: 
+
+----
+
+Icon: 
+
+----
+
+Section: Become Carbon Aware
+
+----
+
+Previous page: set-up-ultra-eco-mode
+
+----
+
+Next page: optimize-for-clean-energy
+
+----
+
+Chapter tag: become-carbon-aware
+
+----
+
+Layout: best-practice

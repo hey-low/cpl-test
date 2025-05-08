@@ -1,0 +1,61 @@
+Title: Influence and Collaborate with Internal Stakeholders
+
+----
+
+Text: [{"id": "influence-and-collaborate-with-stakeholders", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 210
+
+----
+
+Number: 14
+
+----
+
+Icon: /assets/climate-icons/Icon-Business Network.svg
+
+----
+
+Section: Use your influence
+
+----
+
+Previous page: setup-a-private-working-group
+
+----
+
+Next page: organize-talks
+
+----
+
+Chapter tag: use-your-influence
+
+----
+
+Layout: best-practice

@@ -1,0 +1,72 @@
+---
+layout: best-practice
+title: "Include the planet in your brief"
+order: 6
+icon: /assets/climate-icons/Icon-Building.svg
+number: "06"
+section: Embed In Your Rituals
+chapter-tag: embed-rituals
+
+matter: |
+  Your backlog holds great potential for engagement with
+  your stakeholders and communicating what is important for the
+  product moving forward and why. Refining it with your team is a
+  great moment to incorporate and address climate considerations
+  as part of the process. Once tickets are prioritized into a sprint, you will have identified and mitigated some climate risks and impacts.
+
+do: |
+  - Set environmental and emission reduction product goals and
+  link them to the OKRs or other strategic goals. Connect them
+  with tangible business and user opportunities and benefits to
+  facilitate their adoption.
+  - Build the business case by estimating environmental benefits
+  and gains from the new service, product, or feature to convince
+  stakeholders
+  - Go beyond targeted users: consider non-users (persons
+  impacted by your service directly or indirectly) and non-human
+  persona (animals or the planet)
+  - List environmental KPIs (more in Choose the right metrics)
+  - Set a carbon budget for the initiative (or feature) and set alerts
+  when the budget is exceeded
+  - Consider environmental Key Failure Indicators (KFIs) to get
+  alignment on non-acceptable scenarios (e.g. a feature or
+  product being too energy-intensive or emitting too much
+  carbon emissions for the business or user value created)
+  - Scan consequences to complete the brief
+  - Add a section for environmental considerations
+  (listed as risks, uncertainties, or opportunities)
+  - Identify and prioritize risks based on two factors: probability
+  or likelihood, and impact. Then, identify actions to eliminate or
+  mitigate them
+  - Define feature life expectancy and conditions/triggers for
+  retirement
+  - Explore opportunities to Promote green user behaviours
+  - Track your digital footprint: know which tools you plan
+  to use to measure, include dashboards as part of the scope, and
+  monitor after the release or sprint
+
+
+success: |
+  - Inclusion of environmental metrics in product analytics
+  and reporting
+  - Cross-departmental participation in green initiatives
+  - Adoption of cleaner electricity sources for operations
+  - Established targets for reduced carbon and greenhouse
+  gas emissions
+
+consider: |
+  Like any brief or team alignment exercise, the hard part of
+  the process happens before the meeting. You should start by
+  educating your peers, researching, finding compelling data
+  points to support your case, and benchmarking the competition
+  to create some internal FOMO.
+  
+  To increase your chances of success and be ready for these
+  discussions, we'll delve more deeply into how to Convince
+  and collaborate with internal stakeholders in the last
+  chapter. Also, make sure to onboard your marketing team. They
+  will be a great ally to make sustainability shine internally and
+  with your users. This is another excellent opportunity to create
+  positive momentum! More on Share your commitment,
+  actions, and journey publicly.
+---

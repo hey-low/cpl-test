@@ -1,0 +1,61 @@
+Title: Prioritize a mobile-first approach
+
+----
+
+Text: [{"id": "prioritize-a-mobile-first-approach", "type": "text", "isHidden": false, "content": {"text": ""}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 540
+
+----
+
+Number: 22
+
+----
+
+Icon: /assets/climate-icons/Icon-Prioritize-Mobile-First.svg
+
+----
+
+Section: Discover Mindfully
+
+----
+
+Previous page: remove-non-essential-features-from-the-scope
+
+----
+
+Next page: avoid-obsolescence-tactics
+
+----
+
+Chapter tag: discover-mindfully
+
+----
+
+Layout: best-practice

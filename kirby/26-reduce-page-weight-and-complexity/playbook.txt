@@ -1,0 +1,61 @@
+Title: Reduce page weight and complexity
+
+----
+
+Text: [{"id": "reduce-page-weight-and-complexity", "type": "text", "isHidden": false, "content": {"text": "<div class=\"bigquote\">\n  <span class=\"highlight\">\"“Cultivate a culture of intentionality, precision and minimalism”\"</span>\n</div>\n\n<p style=\"text-align:center;\">Climate Product Leaders</p>"}}]
+
+----
+
+Cover: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Subheading: 
+
+----
+
+Uuid: 
+
+----
+
+Order: 520
+
+----
+
+Number: 27
+
+----
+
+Icon: /assets/climate-icons/Icon-Forward.svg
+
+----
+
+Section: Design Frugally
+
+----
+
+Previous page: build-straight-paths-to-user-value
+
+----
+
+Next page: use-multimedia-wisely
+
+----
+
+Chapter tag: design-frugally
+
+----
+
+Layout: best-practice
