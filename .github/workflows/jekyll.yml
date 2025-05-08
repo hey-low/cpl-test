@@ -2,7 +2,6 @@
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
-
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
 
@@ -10,7 +9,6 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -32,31 +30,40 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
         with:
           ruby-version: '3.1.6'
           bundler-cache: true
-          cache-version: 1
+
       - name: Update Bundler
         run: gem update --system bundler
+
       - name: Install Bundler
         run: gem install bundler -v "$(bundle -v)"
+
       - name: Disable Bundler Grouped Gems
         run: bundle config set --global without 'grouped_gems'
+
       - name: Clear Bundler Cache
         run: rm -rf vendor/bundle
-      - name: Unfreeze Gemfile.lock  # ADD THIS STEP
+
+      - name: Unfreeze Gemfile.lock
         run: bundle config set frozen false
+
       - name: Bundle Install (Verbose)
         run: bundle install --jobs 4
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
